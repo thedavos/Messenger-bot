@@ -1,0 +1,20 @@
+{
+  "name": "sweetpizza",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thedavos <davidvargas.d45@gmail.com>",
+  "license": "MIT",
+  "keywords": [],
+  "description": "bot de messenger para nuestra pizzeria",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.4",
+    "request": "2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}
