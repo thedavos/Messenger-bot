@@ -11,7 +11,7 @@
   "description": "bot de messenger para nuestra pizzeria",
   "dependencies": {
     "body-parser": "1.18.3",
-    "express": "4.16.4",
+    "express": "4.17.1",
     "request": "2.88.0"
   },
   "devDependencies": {
